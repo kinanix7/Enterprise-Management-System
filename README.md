@@ -97,7 +97,7 @@ project-name/
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/kinanix7/Enterprise-Management-System.git
    ```
 
 2. **Set Up the Database**
